@@ -1,0 +1,55 @@
+C:\Users\chip-PC\Desktop\proyecto final sistema de farmacia\zzzzzz\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\chip-PC\Desktop\proyecto final sistema de farmacia\zzzzzz\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\chip-PC\Desktop\proyecto final sistema de farmacia\zzzzzz\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\chip-PC\Desktop\proyecto final sistema de farmacia\zzzzzz\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\chip-PC\Desktop\proyecto final sistema de farmacia\zzzzzz\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\chip-PC\Desktop\proyecto final sistema de farmacia\zzzzzz\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\chip-PC\Desktop\proyecto final sistema de farmacia\zzzzzz\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\chip-PC\Desktop\proyecto final sistema de farmacia\zzzzzz\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\chip-PC\Desktop\proyecto final sistema de farmacia\zzzzzz\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\chip-PC\Desktop\proyecto final sistema de farmacia\zzzzzz\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\chip-PC\Desktop\proyecto final sistema de farmacia\zzzzzz\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\chip-PC\Desktop\proyecto final sistema de farmacia\zzzzzz\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form4.resources
+H:\proyecto final sistema de farmacia\zzzzzz\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+H:\proyecto final sistema de farmacia\zzzzzz\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+H:\proyecto final sistema de farmacia\zzzzzz\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+H:\proyecto final sistema de farmacia\zzzzzz\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+H:\proyecto final sistema de farmacia\zzzzzz\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+H:\proyecto final sistema de farmacia\zzzzzz\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+H:\proyecto final sistema de farmacia\zzzzzz\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+H:\proyecto final sistema de farmacia\zzzzzz\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+H:\proyecto final sistema de farmacia\zzzzzz\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+H:\proyecto final sistema de farmacia\zzzzzz\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form4.resources
+H:\proyecto final sistema de farmacia\zzzzzz\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+H:\proyecto final sistema de farmacia\zzzzzz\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\Ayudantia\proyectos-visualstudio\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\Ayudantia\proyectos-visualstudio\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Ayudantia\proyectos-visualstudio\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Ayudantia\proyectos-visualstudio\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\Ayudantia\proyectos-visualstudio\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\Ayudantia\proyectos-visualstudio\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+D:\Ayudantia\proyectos-visualstudio\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+D:\Ayudantia\proyectos-visualstudio\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form4.resources
+D:\Ayudantia\proyectos-visualstudio\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form5.resources
+D:\Ayudantia\proyectos-visualstudio\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Ayudantia\proyectos-visualstudio\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\Ayudantia\proyectos-visualstudio\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\Ayudantia\proyectos-visualstudio\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\Ayudantia\proyectos-visualstudio\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\GIT\v3\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\HP\Desktop\GIT\v3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\HP\Desktop\GIT\v3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\HP\Desktop\GIT\v3\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\HP\Desktop\GIT\v3\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\HP\Desktop\GIT\v3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\GIT\v3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\HP\Desktop\GIT\v3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\HP\Desktop\GIT\v3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\HP\Desktop\GIT\v3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form4.resources
+C:\Users\HP\Desktop\GIT\v3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form5.resources
+C:\Users\HP\Desktop\GIT\v3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\HP\Desktop\GIT\v3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\GIT\v3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form6.resources
+D:\v3\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\v3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\v3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
